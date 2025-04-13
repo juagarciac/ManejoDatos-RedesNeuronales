@@ -1,4 +1,4 @@
-# Trabajo02 - Juan Pablo Garcia Carballo
+# Proyecto para manejar datos y creación de redes neuronales
 
 ## Miembros
 - Juan Pablo Garcia Carballo
